@@ -19,6 +19,7 @@ Let's build an aws chime video call application using aws chime js SDK, AWS Lamb
 
 
 * We will be following mono repo which contains all the backend and front end code.
+* In go.mod the project should be named as coding2fun.in/chime-meet
 * There should be two golang lambdas
   * meet-service - Responsible for
     * Login
